@@ -1,9 +1,7 @@
 # Hello World
 
-This repository is for practicing the GitHub workflow.
+This repository is for practicing the GitHub Flow.
 
-Learning:
-- repositories
-- branches
-- commits
-- pull requests
+About me:
+Stephen P Crump
+Building systems that connect traditional, new and emerging media.
