@@ -5,3 +5,11 @@ This repository is for practicing the GitHub Flow.
 About me:
 Stephen P Crump
 Building systems that connect traditional, new and emerging media.
+
+This repository exists to practice GitHub flow.
+
+Learning objectives:
+- repositories
+- branching
+- commits
+- pull requests
