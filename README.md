@@ -1,9 +1,9 @@
 # Hello World
 
-This repository exists to practice GitHub flow.
+This repository exists to practice the GitHub Flow workflow.
 
-Learning objectives:
-- repositories
-- branching
-- commits
-- pull requests
+## Learning Objectives
+- Repositories
+- Branching
+- Commits
+- Pull requests
